@@ -1,0 +1,8 @@
+C:\Users\eahscs\source\repos\ACSL\ACSL\bin\Debug\data.txt
+C:\Users\eahscs\source\repos\ACSL\ACSL\bin\Debug\ACSL.exe.config
+C:\Users\eahscs\source\repos\ACSL\ACSL\bin\Debug\ACSL.exe
+C:\Users\eahscs\source\repos\ACSL\ACSL\bin\Debug\ACSL.pdb
+C:\Users\eahscs\source\repos\ACSL\ACSL\obj\Debug\ACSL.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\source\repos\ACSL\ACSL\obj\Debug\ACSL.csproj.CoreCompileInputs.cache
+C:\Users\eahscs\source\repos\ACSL\ACSL\obj\Debug\ACSL.exe
+C:\Users\eahscs\source\repos\ACSL\ACSL\obj\Debug\ACSL.pdb
